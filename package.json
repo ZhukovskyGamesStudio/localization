@@ -1,8 +1,8 @@
 {
   "name": "com.zhukovskygames.localization",
-  "version": "1.0.0",
-  "displayName": "My first package :3",
-  "description": "Описание пакета",
+  "version": "1.0.1",
+  "displayName": "Localization",
+  "description": "Позволяет локализовать строки и удобно синхронизировать их с google таблицами. Поддерживает подсказки о тексте при наведении и ключи из выпадающего списка",
   "unity": "2021.3",
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"

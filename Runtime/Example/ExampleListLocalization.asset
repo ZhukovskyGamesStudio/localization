@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a26a951a5a6324088f96e4fcd6ae8d, type: 3}
+  m_Name: ExampleListLocalization
+  m_EditorClassIdentifier: Assembly-CSharp::Localization.LocalizationData
+  ListName: 
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQIcZC5fc10X_w-ypAwIYnlBXH2BAEKdtTrMJIm8Pn2Qlp9aJYG8n3TfrfIjZe04Sp1DdVQs4fF_qVa/pub?gid=0&single=true&output=csv
+  defaultLanguage: en
+  entries:
+  - key: title
+    ru: "\u0421\u0442\u0430\u0442\u044C\u044F"
+    en: Title
+  - key: header
+    ru: "\u0417\u0430\u0433\u043E\u043B\u043E\u0432\u043E\u043A"
+    en: Header
+  - key: description
+    ru: "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F
+      \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F
+      \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F \n\u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F
+      \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F
+      \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u044F"
+    en: 'Description of description of description of description
+
+      of description
+      of description of description of description'
+  - key: colored_phraze
+    ru: "<color=#6B6B1>\u042D\u0442\u043E\u0442 \u0442\u0435\u043A\u0441\u0442 \u0446\u0432\u0435\u0442\u043D\u043E\u0439</color>,
+      \u0430 \u044D\u0442\u043E\u0442 \u043D\u0435\u0442"
+    en: <color=#6B6B1>This text is colored</color>, but this isn't

@@ -1,0 +1,14 @@
+{
+  "name": "com.zhukovskygames.localization",
+  "version": "1.0.0",
+  "displayName": "My first package :3",
+  "description": "Описание пакета",
+  "unity": "6000.2.2",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  },
+  "author": {
+    "name": "Graf Enters",
+    "url": "https://github.com/GrafEnters"
+  }
+}

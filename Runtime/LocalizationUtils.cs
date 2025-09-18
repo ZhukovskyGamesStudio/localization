@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace Localization {
+namespace ZG_Localization {
     public static class LocalizationUtils {
         /// <summary>
         /// Получить локализованный текст по ключу

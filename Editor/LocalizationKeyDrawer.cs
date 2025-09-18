@@ -1,9 +1,9 @@
 using UnityEditor;
 using UnityEngine;
 using System.Linq;
-using Localization;
+using ZG_Localization; 
 
-namespace Localization {
+namespace ZG_Localization {
     [CustomPropertyDrawer(typeof(LocalizationKeyAttribute))]
     public class LocalizationKeyDrawer : PropertyDrawer {
         private static string _lastFileName;

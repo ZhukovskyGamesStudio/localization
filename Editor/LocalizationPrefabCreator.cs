@@ -1,8 +1,8 @@
 using UnityEditor;
 using UnityEngine;
-using Localization;
+using ZG_Localization; 
 
-namespace Localization {
+namespace ZG_Localization {
     public class LocalizationPrefabCreator {
         [MenuItem("Tools/Localization/Create LocalizationManager Prefab")]
         public static void CreateLocalizationManagerPrefab() {

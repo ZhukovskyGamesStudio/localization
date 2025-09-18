@@ -1,4 +1,4 @@
-using Localization;
+using ZG_Localization; 
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "ExampleConfigWithLocalizationKeys", menuName = "Localization/ExampleConfigWithLocalizationKeys", order = 0)]

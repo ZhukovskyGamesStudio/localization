@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Localization {
+namespace ZG_Localization {
     public class LocalizationKeyAttribute : PropertyAttribute {
         public string fileName;
 

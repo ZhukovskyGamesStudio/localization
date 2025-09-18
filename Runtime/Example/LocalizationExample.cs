@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Localization {
+namespace ZG_Localization {
     /// <summary>
     /// Пример использования системы локализации
     /// </summary>

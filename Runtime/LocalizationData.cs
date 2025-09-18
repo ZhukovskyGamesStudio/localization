@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Localization {
+namespace ZG_Localization {
     [CreateAssetMenu(fileName = "LocalizationData", menuName = "Scriptable Objects/Localization/LocalizationData", order = 100)]
     public class LocalizationData : ScriptableObject {
         [SerializeField]

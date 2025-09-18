@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using Localization;
+using ZG_Localization; 
 
-namespace Localization {
+namespace ZG_Localization {
 
 
     public class LocalizationEditor : EditorWindow {

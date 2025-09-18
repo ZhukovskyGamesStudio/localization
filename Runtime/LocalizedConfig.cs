@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Localization {
+namespace ZG_Localization {
     /// <summary>
     /// Базовый класс для конфигов, которые поддерживают локализацию
     /// </summary>

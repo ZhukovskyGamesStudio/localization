@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using Debug = UnityEngine.Debug;
 
-namespace Localization {
+namespace ZG_Localization {
     public abstract class LocalizationManager : MonoBehaviour {
         public static LocalizationManager Instance;
 

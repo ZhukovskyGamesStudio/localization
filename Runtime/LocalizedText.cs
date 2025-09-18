@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-namespace Localization {
+namespace ZG_Localization {
     public class LocalizedText : MonoBehaviour {
         [Header("Localization Settings")]
         [SerializeField]

@@ -1,6 +1,6 @@
 {
   "name": "com.zhukovskygames.localization",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Localization",
   "description": "Позволяет локализовать строки и удобно синхронизировать их с google таблицами. Поддерживает подсказки о тексте при наведении и ключи из выпадающего списка",
   "unity": "2021.3",

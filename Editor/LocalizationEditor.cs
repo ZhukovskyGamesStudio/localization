@@ -1,12 +1,8 @@
-using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using ZG_Localization; 
 
 namespace ZG_Localization {
-
-
     public class LocalizationEditor : EditorWindow {
         private LocalizationData localizationData;
         private Vector2 scrollPosition;

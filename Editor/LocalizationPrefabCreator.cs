@@ -1,6 +1,5 @@
 using UnityEditor;
 using UnityEngine;
-using ZG_Localization; 
 
 namespace ZG_Localization {
     public class LocalizationPrefabCreator {

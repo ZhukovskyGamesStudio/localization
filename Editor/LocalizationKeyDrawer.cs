@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 using System.Linq;
-using ZG_Localization; 
+using ZG_Localization;
 
 namespace ZG_Localization {
     [CustomPropertyDrawer(typeof(LocalizationKeyAttribute))]
